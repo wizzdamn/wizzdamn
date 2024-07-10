@@ -2,7 +2,7 @@
 - 👀 I’m a cybersecurity enthusiast
 - 🌱 I’m currently learning offensive security
 - 💞️ I’m looking to collaborate on CTFs and Research
-- 📫 Reach out to me @email
+- 📫 Reach out to me @wizzdamn9@gmail.com
 - 🧙🏻‍♂️ Pronouns: Wizard
 - ⚡ Fun fact: I like Fediverse over Metaverse
 
